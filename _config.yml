@@ -1,16 +1,16 @@
 # Site settings
-title: Pudhina
+title: 试了半天求求你不要出问题
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+  试了半天求求你不要出问题
 
-baseurl: "/Pudhina" # the subpath of your site, e.g. /blog/
-url: "https://knhash.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://Stimmer711.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Pudhina
-  github: github
-  linkedin: linkedin
-  email: example@email.com
+  fullname: Stimmer
+  github: Stimmer711
+  linkedin: non
+  email: lq934590442@gmail.com
 
 
 # Syntax highlighting
