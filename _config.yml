@@ -1,15 +1,14 @@
 # Site settings
-title: 试了半天求求你不要出问题
+title: xinei++
 description: >
-  试了半天求求你不要出问题
+  xinei
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://stimmer711.github.io" # the base hostname & protocol for your site
+url: "https://stimmer711.github.io/" # the base hostname & protocol for your site
 
 author:
-  fullname: Stimmer
+  fullname: Stimmer711
   github: Stimmer711
-  linkedin: non
   email: lq934590442@gmail.com
 
 
